@@ -6,7 +6,7 @@ const options = {
   collapseWhitespace: true,
   conservativeCollapse: true,
   decodeEntities: true,
-  keepClosingSlash: true,
+  keepClosingSlash: false,
   minifyCSS: true,
   minifyJS: true,
   processConditionalComments: true,
